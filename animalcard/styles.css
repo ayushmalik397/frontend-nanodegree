@@ -1,0 +1,33 @@
+ .fact{
+	font-style: italic;
+	text-align: center;
+
+}
+ span{
+	font-weight: bold;
+
+}
+ ul{
+	list-style-type: none;
+
+}
+ .border{
+	border-style: groove;
+	margin: 10px 450px 10px 450px;
+	width:320px;
+
+}
+ #info{
+	border-style: groove;
+	padding: 2mm 4mm 3mm 4mm;
+	margin: 10px 10px 10px 10px;
+	
+}
+ h3{
+	padding: 2mm;
+}
+ .image{
+	padding: 2mm;
+	padding-left: 2.7mm;
+	
+}
