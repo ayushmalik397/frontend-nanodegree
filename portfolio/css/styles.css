@@ -1,0 +1,30 @@
+ .sec1 {
+	width: 400px;
+ }
+
+ body {
+	font-family: "Nunito", sans-serif;
+	color: #747704;
+
+ }
+
+ .text-muted {
+	color: 0000ff;
+	font-weight: bold;
+ }
+
+ .logo {
+	margin-top: 20px;
+ }
+
+ .text-right {
+	margin-top: 20px;
+ }
+
+ .head2 {
+ 	margin-top: 20px;
+ }
+ hr{
+    
+    height: 10px;
+}
