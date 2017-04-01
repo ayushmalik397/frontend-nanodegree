@@ -64,7 +64,7 @@ for(var i=0;i<places.length;i++){
 self.addInfo = function(marker){
   $.ajax({
    type: "GET",
-	 url: "https://api.foursquare.com/v2/venues/" + marker.resid + "?client_id=3MF4TXX5NLMFDYA0OPXCA3UOJTDD2ZB1FWPSORO0OXY5VFYH&client_secret=ZRU4MIGSDURP5P0DU50P2YCNTRCKNI2LGZHGGNSLYJLBG0Y4&v=20161016",
+	 url: "https://api.foursquare.com/v2/venues/" + marker.resid + "?client_id=FPKPIRWUTRMS3INSBSOBMNJFYMTTCFJ5EAINJXXH2N4TPCBA&client_secret=LGGXVF4QOW5ITJNRH0WTQOMSDCULIQ5OHFKMOUOIBLUXX2V1&v=20161016",
    dataType: "json",
 	  success: function (data) {
 	  var ans = data.response.venue;
