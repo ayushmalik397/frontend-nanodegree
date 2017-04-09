@@ -10,6 +10,7 @@ The Frontend Nanodegree course by udacity focuses on developing user experiences
 <li>JQuery</li>
 <li>Object Oriented JavaScript</li>
 <li>DOM</li>
+<li>Web Framework</li>
 <li>Website Optimization</li>
 <li>Google Maps & Other APIs</li>
 <li>Jasmine Testing Suite</li>
